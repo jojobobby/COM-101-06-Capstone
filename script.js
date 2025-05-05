@@ -4,7 +4,7 @@ function simulateNoise() {
     "How long is this presentation going to take? (personal)",
     "*Background Noise* (physical)",
     "*Louder Background Noise* (physical)",
-    "Pt is no (semantic)"
+    "Pt is no (semantic)",
     "This is the last slide"	  
   ];
 
